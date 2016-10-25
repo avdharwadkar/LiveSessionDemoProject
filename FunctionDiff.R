@@ -1,0 +1,6 @@
+## calculate difference
+#
+diff <- function(x,y) {
+  z=x - y
+  return(z)
+}
